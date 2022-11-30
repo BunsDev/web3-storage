@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.7.0](https://github.com/web3-storage/web3.storage/compare/cron-v1.6.1...cron-v1.7.0) (2022-11-30)
+
+
+### Features
+
+* put write to cluster behind a flag ([#1785](https://github.com/web3-storage/web3.storage/issues/1785)) ([eae75d2](https://github.com/web3-storage/web3.storage/commit/eae75d2366d59b0cf16143723a5af6513d891f9e))
+* split pins cron by environments ([#1903](https://github.com/web3-storage/web3.storage/issues/1903)) ([2c81055](https://github.com/web3-storage/web3.storage/commit/2c81055c6f0f9dfb3b9aa908e34db700d6f41b45))
+
 ## [1.6.1](https://github.com/web3-storage/web3.storage/compare/cron-v1.6.0...cron-v1.6.1) (2022-09-16)
 
 
