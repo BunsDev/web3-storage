@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.5.1](https://github.com/web3-storage/web3.storage/compare/web3.storage-v4.5.0...web3.storage-v4.5.1) (2022-11-30)
+
+
+### Bug Fixes
+
+* upload and pin table refactor ([#2018](https://github.com/web3-storage/web3.storage/issues/2018)) ([cbfe9d7](https://github.com/web3-storage/web3.storage/commit/cbfe9d70dbd6ce4ac9e70692160feeec5d2713e2))
+
 ## [4.5.0](https://github.com/web3-storage/web3.storage/compare/web3.storage-v4.4.1...web3.storage-v4.5.0) (2022-09-20)
 
 
