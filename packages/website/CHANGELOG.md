@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.33.0](https://github.com/web3-storage/web3.storage/compare/website-v2.32.0...website-v2.33.0) (2022-11-30)
+
+
+### Features
+
+* add tooltip to dashboard storage totals ([#2101](https://github.com/web3-storage/web3.storage/issues/2101)) ([2056ec6](https://github.com/web3-storage/web3.storage/commit/2056ec6fd692949f112b7b37d48d4da9d6a34523)), closes [#2081](https://github.com/web3-storage/web3.storage/issues/2081)
+* list and ability to delete psa request created though deleted tokens ([#2054](https://github.com/web3-storage/web3.storage/issues/2054)) ([e150d1f](https://github.com/web3-storage/web3.storage/commit/e150d1fa86dc0e6600f159fa92ccb7c8e65900e3))
+
 ## [2.32.0](https://github.com/web3-storage/web3.storage/compare/website-v2.31.0...website-v2.32.0) (2022-11-11)
 
 
