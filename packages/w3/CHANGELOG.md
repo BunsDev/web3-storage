@@ -1,5 +1,31 @@
 # Changelog
 
+## [2.9.0](https://github.com/BunsDev/web3-storage/compare/w3-v2.8.0...w3-v2.9.0) (2025-08-29)
+
+
+### Features
+
+* `w3 open &lt;cid&gt;` to open cid on w3s.link in browser ([#1892](https://github.com/BunsDev/web3-storage/issues/1892)) ([5d3188d](https://github.com/BunsDev/web3-storage/commit/5d3188d18fc71faa8468b4b425637b4a67064aac))
+* `w3` command using w3s.link ([#1807](https://github.com/BunsDev/web3-storage/issues/1807)) ([6a3e7af](https://github.com/BunsDev/web3-storage/commit/6a3e7af61d1e5dcf789f4f3690732c1b17814b9d))
+* add w3name proxy ([#1707](https://github.com/BunsDev/web3-storage/issues/1707)) ([f2f9662](https://github.com/BunsDev/web3-storage/commit/f2f9662fc74ea24a24141aa1bf42288c95b5bd35))
+* embed w3name package ([#1683](https://github.com/BunsDev/web3-storage/issues/1683)) ([20d1c94](https://github.com/BunsDev/web3-storage/commit/20d1c9446ca1da475a4d783ef3bc1fc09c0ee43f))
+* update to latest web3.storage@4.5 ([#2232](https://github.com/BunsDev/web3-storage/issues/2232)) ([312a940](https://github.com/BunsDev/web3-storage/commit/312a940ce81ee75dc86555dee1a08a5eae23b536))
+
+
+### Bug Fixes
+
+* add ipns migration cron job ([#1705](https://github.com/BunsDev/web3-storage/issues/1705)) ([4b6e67f](https://github.com/BunsDev/web3-storage/commit/4b6e67f07983b06e9bad9c27deb5d6c5b993258e))
+* cjs support for w3name ([#1820](https://github.com/BunsDev/web3-storage/issues/1820)) ([49227b6](https://github.com/BunsDev/web3-storage/commit/49227b638f71dd5d33b82e520d83135eff0d0c37))
+* undeprecate the `w3 name...` commands. ([#1777](https://github.com/BunsDev/web3-storage/issues/1777)) ([a9ee094](https://github.com/BunsDev/web3-storage/commit/a9ee094512433572f55c74900ec20c9d5c72d72a))
+
+
+### Other Changes
+
+* add an e2e test for the w3name proxy module ([#1715](https://github.com/BunsDev/web3-storage/issues/1715)) ([c4633f6](https://github.com/BunsDev/web3-storage/commit/c4633f6f504ff52df0712fb1db725d6fa55f5d1c))
+* **main:** release w3 2.6.1 ([#1801](https://github.com/BunsDev/web3-storage/issues/1801)) ([4151e3b](https://github.com/BunsDev/web3-storage/commit/4151e3bea7dce393ecdf3e080b74329ae82e703e))
+* **main:** release w3 2.7.0 ([#1808](https://github.com/BunsDev/web3-storage/issues/1808)) ([9b6a836](https://github.com/BunsDev/web3-storage/commit/9b6a83690c1a95a344782bae6417e767f9b03973))
+* **main:** release w3 2.8.0 ([#2233](https://github.com/BunsDev/web3-storage/issues/2233)) ([eeb5114](https://github.com/BunsDev/web3-storage/commit/eeb5114fc3a652edb69f2f7168766b2fe5cba15a))
+
 ## [2.8.0](https://github.com/web3-storage/web3.storage/compare/w3-v2.7.0...w3-v2.8.0) (2023-03-03)
 
 
